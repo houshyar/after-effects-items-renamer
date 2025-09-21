@@ -24,20 +24,30 @@ A lightweight Adobe After Effects ExtendScript (`.jsx`) that allows you to batch
 
 ## Example
 Before running:
+
 📂 Scenes_Final
+
 ├─ Scene01_Final
+
 ├─ Scene02_Final
+
 └─ 📂 Precomps_Final
+
 └─ BG_Final
 
 Find: `Final`  
 Replace: `v2`
 
 After running:
+
 📂 Scenes_v2
+
 ├─ Scene01_v2
+
 ├─ Scene02_v2
+
 └─ 📂 Precomps_v2
+
 └─ BG_v2
 
 ## Requirements
